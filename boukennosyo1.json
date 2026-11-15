@@ -1,0 +1,29 @@
+{
+    "name": "よしひこ",
+    "job": "勇者",
+    "level": 76,
+    "hp": 351,
+    "mp": 328,
+    "power": 244,
+    "guard": 242,
+    "speed": 234,
+    "intell": 236,
+    "gold": 7083,
+    "exp": 5,
+    "max_hp": 364,
+    "max_mp": 337,
+    "weapon": {
+        "name": "てつのつるぎ",
+        "price": 1000,
+        "power": 18
+    },
+    "armor": {
+        "name": "まほうのよろい",
+        "price": 4200,
+        "guard": 40
+    },
+    "item": null,
+    "casino_coin": 18300,
+    "chiisanamedal": 0,
+    "bank_gold": 0
+}
