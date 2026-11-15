@@ -1,2 +1,3 @@
 # doragonguest_practice.github.io
 ドラゴンクエストをPythonで1から作ってみる
+ブランチをmainからmasterに切り替えると、pythonファイルが入ってます
